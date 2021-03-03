@@ -3,3 +3,5 @@
 3. Add Sugar
 4. Add milk
 5. Serve Tea - serve the tea when it is HOT!!!
+
+Making changes in the GITHUB UI and needs to be reflected in the remote repository
